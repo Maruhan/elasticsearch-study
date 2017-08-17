@@ -6,9 +6,9 @@ Elasticsearch의 논리적 레이아웃에는 index, type, document가 있으며
 
 ### Index
 
+### Type
 
-
-
+### Document
 
 
 ## 참고
