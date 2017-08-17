@@ -5,6 +5,7 @@ Elasticsearch의 논리적 레이아웃에는 index, type, document가 있으며
 우선 논리적 레이아웃 각각의 개념 정리와 추가적으로 알게된 내용 정리
 
 ### Index
+index
 
 ### Type
 
