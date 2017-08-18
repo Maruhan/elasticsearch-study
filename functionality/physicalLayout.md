@@ -21,9 +21,9 @@
 1. 클라이언트 노드 (Client node) - http.enabled : true
     * 네트워크 부하를 담당하며 각 노드의 앞단에서 로드 밸런서의 역할을 수행한다.
 
-노드의 역할에 따라 옵션을 변경해주면 되고 하나의 노드가 3가지 역할을 모두 수행할 수도 있다. 단일 노드 구성의 경우 그 만큼 위험부담이 따른다.
+노드의 역할에 따라 옵션을 변경해주면 되고 하나의 노드가 3가지 역할을 모두 수행할 수도 있다. 단일 노드 구성의 경우 그만큼 위험부담이 따른다.
 
-`Elasticsearch에서 색인 및 검색을 위해서 대부분 Elastic에서 제공하는 Java API와 RESTful API를 사용한다. 이때 주의 할 점은 Java API는 Transport 모듈로 통신을 하기 때문에 데이터 노드와 통신을 하며,RESTful API는 HTTP 모듈로 통신하기 때문에 클라이언트 노드와 통신을 한다.`
+`Elasticsearch에서 색인 및 검색을 위해서 대부분 Elastic에서 제공하는 Java API와 RESTful API를 사용한다. 이때 주의할 점은 Java API는 Transport 모듈로 통신을 하기 때문에 데이터 노드와 통신을 하며, RESTful API는 HTTP 모듈로 통신하기 때문에 클라이언트 노드와 통신을 한다.`
 
 ### 샤드(Shard) / 리플리카(Replica)
 
@@ -40,6 +40,10 @@
 
 
 ## 참고 자료
-[Elasticsearch in Action - understanding the logical layout documents, type, index](https://weng.gitbooks.io/elasticsearch-in-action/content/chapter2_diving_into_the_functionality/21understanding_the_logical_layout_documents_,type.html)
+Elasticsearch in Action - understanding the logical layout documents, type, index
 
-[behonestar - Tistory](http://behonestar.tistory.com/49)
+[https://weng.gitbooks.io/elasticsearch-in-action](https://weng.gitbooks.io/elasticsearch-in-action/content/chapter2_diving_into_the_functionality/21understanding_the_logical_layout_documents_,type.html)
+
+behonestar - Tistory
+
+[http://behonestar.tistory.com](http://behonestar.tistory.com)
