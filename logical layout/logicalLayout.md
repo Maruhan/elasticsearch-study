@@ -8,11 +8,14 @@ Elasticsearch(이하 ES)의 논리적 레이아웃에는 index, type, document�
 ES의 논리적 레이아웃이다. 데이터 계층이라고도 말할 수 있다.
 기존에 익숙한 RDBMS와 비교하여 설명하면 조금더 이해하기 쉬울것 같아 내용을 정리한다면
 
-| ElasticSearch |   RDBMS  |
-|---------------|:--------:|
-| Index         | Database |
-| Type          | Table    |
-| Document      | Rows     |
+| ElasticSearch |   RDBMS    |
+|---------------|:----------:|
+| Index         | Database   |
+| Type          | Table      |
+| Document      | Rows       |
+| Column        | Field      |
+| Schema        | Mapping    |
+| SQL           | Query DSL  |
 
 
 또한 ES는 RESTful API를 통해 질의를 할 수 있으며 표현은 아래와 같이 한다.
