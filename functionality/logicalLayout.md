@@ -29,8 +29,14 @@ ES의 논리적 레이아웃이다. 데이터 계층이라고도 말할 수 있�
 ### Document
 
 ## 참고 자료
-[Elasticsearch in Action - understanding the logical layout documents, type, index](https://weng.gitbooks.io/elasticsearch-in-action/content/chapter2_diving_into_the_functionality/21understanding_the_logical_layout_documents_,type.html)
+Elasticsearch in Action - understanding the logical layout documents, type, index
 
-[jjeong blog - Elastic](http://jjeong.tistory.com/category/Elastic)
+[https://weng.gitbooks.io/elasticsearch-in-action](https://weng.gitbooks.io/elasticsearch-in-action/content/chapter2_diving_into_the_functionality/21understanding_the_logical_layout_documents_,type.html)
 
-[박연오 blog](https://bakyeono.net/post/2016-06-03-start-elasticsearch.html)
+jjeong blog - Elastic
+
+[http://jjeong.tistory.com/](http://jjeong.tistory.com/)
+
+박연오 blog
+
+[https://bakyeono.net/](https://bakyeono.net/)
